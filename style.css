@@ -254,3 +254,49 @@ flex-shrink: 0;
 }
 
 /* Holiday sale start form here */
+.holiday-sle h4{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    padding-bottom: 16px;
+}
+.holiday-sle h1{
+color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-align: center;
+padding-bottom: 28px;
+}
+.holiday-sle h1 span{
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.holiday-sle p{
+    text-align: center;
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 160% */
+}
+.holiday-sle img{
+    width: 1320px;
+    height: 662.07px;
+    margin: 120px;
+    border-radius: 15px;
+}
+/* Portfolio section start here */
