@@ -6,3 +6,37 @@
     font-family: 'Inter', sans-serif;
     font-family: 'Merriweather', serif;
 }
+.hero{
+    background-image: url('Images/hero-bg.png') ;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+    margin-bottom: 120px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.hero h3{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 177px;
+}
+.hero h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+    padding-top: 16px;
+    }
+
+    /* Hero scetion done */
