@@ -93,13 +93,15 @@ margin-bottom: 48px;
     height: 600px;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 120px;   
+    margin-bottom: 120px; 
+    border-radius: 16px;  
 }
 .partyly{
     width: 1320px;
     height: 600px;
     background:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ;
     opacity: .8;
+    border-radius: 16px;
 }
 .items{
     display: flex;
@@ -150,7 +152,8 @@ background-size: cover;
 margin-right: auto;
 margin-left: auto;
 width: 1320px;
-00height: 482px;
+height: 482px;
+border-radius: 16px;
 }
 .event h3{
 color: #070211;
@@ -315,8 +318,7 @@ padding-bottom: 28px;
 }
 /* Portfolio section start here */
 .portfolio{
-    margin-left: 5.42%;
-    /* margin-left: 84px; */
+    margin-left: 5.42%;  
 }
 .portfolio h4{
 color: #F00;
