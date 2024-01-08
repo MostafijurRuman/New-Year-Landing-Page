@@ -309,13 +309,36 @@ padding-bottom: 28px;
     font-style: normal;
     font-weight: 500;
     line-height: 32px; /* 160% */
+    margin-bottom: 100px;
 }
-.holiday-sle img{
+.magicon{
     width: 1320px;
-    height: 662.07px;
-    margin: 120px auto;
-    border-radius: 15px;
+    height: 700px;
+    background-repeat: no-repeat;
 }
+.magi{
+    position: absolute;
+    top: 3909px;
+    right: 99px;
+
+
+}
+.lal{
+    position: relative;
+    top: 380px;
+}
+.magi-dis{
+  position: relative;  
+  left: 225px;
+  bottom: 200px;
+}
+.magi-gift{
+    position: absolute;
+    z-index: 100;
+    left: 200px;
+    top: 3909px;
+}
+
 /* Portfolio section start here */
 .portfolio{
     margin-left: 5.42%;  
